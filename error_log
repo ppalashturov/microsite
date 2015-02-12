@@ -1,0 +1,86 @@
+[11-Feb-2015 10:46:08 Europe/Sofia] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin.php on line 18
+[11-Feb-2015 10:57:40 Europe/Sofia] PHP Fatal error:  Uncaught exception 'Exception' with message 'You don't have permissions for this operation' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/system/libraries/Grocery_CRUD.php:4302
+Stack trace:
+#0 /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin.php(88): Grocery_CRUD->render()
+#1 [internal function]: Admin->message('edit', '1')
+#2 /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/index.php(202): require_once('/home/hostbgeu/...')
+#4 {main}
+  thrown in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/system/libraries/Grocery_CRUD.php on line 4302
+[11-Feb-2015 11:06:04 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin.php on line 95
+[11-Feb-2015 11:06:05 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin.php on line 95
+[11-Feb-2015 11:06:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin.php on line 95
+[11-Feb-2015 11:06:06 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin.php on line 95
+[11-Feb-2015 12:39:10 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:39:11 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:39:12 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:39:46 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:39:47 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:40:15 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:40:16 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:40:19 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:40:55 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:41:08 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:41:08 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:41:08 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:41:38 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:41:56 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:41:57 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:43:08 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:43:35 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:44:04 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:44:18 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:44:19 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:44:19 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:44:19 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:44:58 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 12:44:59 Europe/Sofia] PHP Fatal error:  Class 'Dashboard' not found in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 3
+[11-Feb-2015 14:01:49 Europe/Sofia] PHP Parse error:  syntax error, unexpected '/' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 70
+[11-Feb-2015 14:01:55 Europe/Sofia] PHP Parse error:  syntax error, unexpected ''>Редактирай</a>' (T_CONSTANT_ENCAPSED_STRING) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 76
+[11-Feb-2015 14:01:56 Europe/Sofia] PHP Parse error:  syntax error, unexpected ''>Редактирай</a>' (T_CONSTANT_ENCAPSED_STRING) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 76
+[11-Feb-2015 14:01:56 Europe/Sofia] PHP Parse error:  syntax error, unexpected ''>Редактирай</a>' (T_CONSTANT_ENCAPSED_STRING) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 76
+[11-Feb-2015 14:01:57 Europe/Sofia] PHP Parse error:  syntax error, unexpected ''>Редактирай</a>' (T_CONSTANT_ENCAPSED_STRING) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 76
+[11-Feb-2015 14:02:20 Europe/Sofia] PHP Parse error:  syntax error, unexpected ''>Редактирай</a>' (T_CONSTANT_ENCAPSED_STRING) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 76
+[11-Feb-2015 14:48:28 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/views/admin2/home/edit.php on line 74
+[11-Feb-2015 14:48:29 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/views/admin2/home/edit.php on line 74
+[11-Feb-2015 14:48:31 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/views/admin2/home/edit.php on line 74
+[11-Feb-2015 14:48:32 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';' in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/views/admin2/home/edit.php on line 74
+[11-Feb-2015 15:02:41 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/views/admin2/home/edit.php on line 106
+[11-Feb-2015 15:11:58 Europe/Sofia] PHP Fatal error:  Call to a member function updateHome() on a non-object in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 110
+[11-Feb-2015 15:12:11 Europe/Sofia] PHP Fatal error:  Call to a member function updateHome() on a non-object in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 110
+[11-Feb-2015 15:12:23 Europe/Sofia] PHP Fatal error:  Call to a member function updateHome() on a non-object in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 110
+[11-Feb-2015 15:37:44 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 195
+[11-Feb-2015 15:37:45 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 195
+[11-Feb-2015 15:37:55 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 195
+[11-Feb-2015 15:37:56 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 195
+[12-Feb-2015 10:38:47 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:24 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:25 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:25 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:26 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:26 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:35 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:37 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:37 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:37 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:39:47 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:40:09 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:40:10 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:40:18 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:40:19 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:40:29 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:40:30 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:40:30 Europe/Sofia] PHP Fatal error:  Can't use method return value in write context in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 191
+[12-Feb-2015 10:50:12 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:50:14 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:50:14 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:50:14 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:50:14 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:51:10 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:52:00 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:52:01 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:52:01 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:52:01 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:52:01 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:52:04 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
+[12-Feb-2015 10:52:05 Europe/Sofia] PHP Fatal error:  Cannot use object of type stdClass as array in /home/hostbgeu/subdomains/host-bg.eu/microsite.host-bg.eu/application/controllers/admin2.php on line 213
